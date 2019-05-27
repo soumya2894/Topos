@@ -20,3 +20,8 @@ The Python modules used in development of web scrapper are :
 2. pandas
 3. requests
 4. xlsxwriter
+
+Step to run the file: python pop.py 
+All the output files can be found in D drive. 
+wiki_dataframe.csv
+wiki_scrapper.xlsx
